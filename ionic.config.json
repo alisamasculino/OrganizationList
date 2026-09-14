@@ -1,0 +1,7 @@
+{
+  "name": "Organization-List",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
